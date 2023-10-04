@@ -142,8 +142,10 @@ footer .info{
 	display: flex;
 	justify-content: space-between;
 	font-size: 20px;
-	padding-top: 16px;
-	width: 40%;
+}
+
+footer .info span{
+	padding: 16px;	
 }
 
 footer .title{
